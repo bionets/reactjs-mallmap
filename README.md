@@ -3,9 +3,9 @@
 ### Installation
 1. Clone the project.
 
-2. Install dependencies using npm
+2. Install dependencies using npm:
 
-`npm install`
+    `npm install`
 
 ### Build and Run
 `npm start`
